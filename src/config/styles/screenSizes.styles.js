@@ -1,4 +1,4 @@
-export const screenSizes = {
+export const screenSizesStyle = {
 	xs: 320,
 	sm: 768,
 	md: 1024,
